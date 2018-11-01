@@ -2,4 +2,5 @@ public class MyText{
 	public Integer id;
 	public String name;
 	public Integer age;
+	public String address;
 }
